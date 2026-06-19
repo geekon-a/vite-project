@@ -80,7 +80,7 @@ function NavBar() {
 
         {/* STŘEDNÍ ČÁST: Rychlé odkazy (volitelné, klidně můžeš smazat, pokud chceš mít vše v hamburgeru) */}
         <div className="hidden md:flex items-center gap-8 text-base font-black uppercase tracking-widest text-zinc-400">
-          <a href="/kiteboard" className="hover:text-yellow-400 transition-colors">Kiteboarding</a>
+          <a href="/kiteboarding" className="hover:text-yellow-400 transition-colors">Kiteboarding</a>
           <a href="/wingfoil" className="hover:text-yellow-400 transition-colors">Wingfoil</a>
           <a href="/hydrofoil" className="hover:text-yellow-400 transition-colors">Hydrofoil</a>
           <a href="/magazin" className="hover:text-yellow-400 transition-colors">Magazín</a>
